@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AtividadePontuada</string>
+    <string name="config_txt">Config</string>
+    <string name="exit_txt">Exit</string>
+    <string name="confirm_txt">Confirm</string>
+    <string name="cancel_txt">Cancel</string>
+    <string name="name_txt">Username</string>
+    <string name="password1_txt">Password</string>
+    <string name="password2_txt">Password</string>
+    <string name="LoginName_txt">Name</string>
+    <string name="LoginPs_txt">Password</string>
+    <string name="signin_txt">Entrar</string>
+    <string name="exitLogin_txt">Sair</string>
+    <string name="LoginActivity_txt">Login</string>
+</resources>

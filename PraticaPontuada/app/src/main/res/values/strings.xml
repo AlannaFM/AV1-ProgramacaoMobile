@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PraticaPontuada</string>
+    <string name="config_txt">Config</string>
+    <string name="about_txt">About</string>
+    <string name="exit_txt">Exit</string>
+    <string name="nome_txt">Name</string>
+    <string name="sexo_txt">Gender:</string>
+    <string name="masculino_txt">Male</string>
+    <string name="feminino_txt">Female</string>
+    <string name="aplicar_txt">Apply</string>
+</resources>
