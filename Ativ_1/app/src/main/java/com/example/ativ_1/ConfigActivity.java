@@ -89,6 +89,6 @@ public class ConfigActivity extends AppCompatActivity implements View.OnClickLis
         sharedPreferencesEditor.putString("senha", senha);
         sharedPreferencesEditor.commit(); // Aplica as mudanças
 
-        finish(); // Fecha a Activity e volta para a anterior
+        finish(); // Fecha a Activity e volta para a antrior
     }
 }
